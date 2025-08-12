@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Projects and Briefs'
 date: 2024-05-19
 type: landing
 
