@@ -1,0 +1,82 @@
+[33mcommit 79029c5c5df7730d4d65b3fdb548cce53b941dac[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 50d805b c12ac6a
+Author: VancityValle <nathaneiljvalle6@gmail.com>
+Date:   Tue Aug 12 20:49:30 2025 +0000
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+[33mcommit 50d805bef91ece60ad0c62de271ccab16513fd4a[m
+Author: VancityValle <nathaneiljvalle6@gmail.com>
+Date:   Tue Aug 12 20:47:07 2025 +0000
+
+    further removed language section
+
+[33mcommit c67a729cf3f946c14636c1cc77cc5dd8bb5823cc[m
+Merge: 6865529 139aa9f
+Author: VancityValle <nathaneiljvalle6@gmail.com>
+Date:   Tue Aug 12 20:45:21 2025 +0000
+
+    Merge branch 'TestSpace'
+
+[33mcommit c12ac6a08c2065b45c9101c97cf72cf377786310[m
+Merge: 6865529 139aa9f
+Author: VancityValle <nathaneiljvalle6@gmail.com>
+Date:   Tue Aug 12 13:43:37 2025 -0700
+
+    Merge pull request #3 from VancityValle:TestSpace
+    
+    Removed languages section from ExpTab
+
+[33mcommit 139aa9f18abe21c7a014479680c785cf0d855eac[m[33m ([m[1;31morigin/TestSpace[m[33m, [m[1;32mTestSpace[m[33m)[m
+Author: VancityValle <nathaneiljvalle6@gmail.com>
+Date:   Tue Aug 12 20:42:58 2025 +0000
+
+    Removed languages section from ExpTab
+
+[33mcommit 6865529cbd5ce555a469a6b85d6b00009838fb2d[m
+Merge: 6856267 bd742b4
+Author: VancityValle <nathaneiljvalle6@gmail.com>
+Date:   Tue Aug 12 13:37:39 2025 -0700
+
+    Merge pull request #2 from VancityValle/ExperienceTab
+    
+    Added hobbies and skills section
+
+[33mcommit bd742b41f99bac51353101cb85a6cde93e5f0c4d[m[33m ([m[1;31morigin/ExperienceTab[m[33m, [m[1;32mExperienceTab[m[33m)[m
+Author: VancityValle <nathaneiljvalle6@gmail.com>
+Date:   Tue Aug 12 20:35:51 2025 +0000
+
+    Added hobbies and skills section
+
+[33mcommit 685626731e091707b4767dfeb56313e8aa458712[m
+Merge: d6994ad ed80c6a
+Author: VancityValle <nathaneiljvalle6@gmail.com>
+Date:   Tue Aug 12 13:25:34 2025 -0700
+
+    Merge pull request #1 from VancityValle/ExperienceTab
+    
+    Added work experience
+
+[33mcommit ed80c6a06f2bf8e5cfb59738570d5ac310042d0a[m
+Author: VancityValle <nathaneiljvalle6@gmail.com>
+Date:   Tue Aug 12 20:19:43 2025 +0000
+
+    Added work experience
+
+[33mcommit d6994add5c3120f1e36ed99269977d9de8f5eadd[m[33m ([m[1;31morigin/EditingLandingPage[m[33m, [m[1;32mEditingLandingPage[m[33m)[m
+Author: VancityValle <nathaneiljvalle6@gmail.com>
+Date:   Tue Aug 12 08:17:16 2025 +0000
+
+    Added AboutMe description
+
+[33mcommit 8826d8c600c6e65867f5aea21e18134c37de6270[m
+Author: VancityValle <nathaneiljvalle6@gmail.com>
+Date:   Tue Aug 12 07:31:18 2025 +0000
+
+    Edited Landing Page content
+
+[33mcommit 5538b7ac184aae792c37552cb0eca683086114b7[m
+Author: VancityValle <nathaneiljvalle6@gmail.com>
+Date:   Tue Aug 12 00:24:24 2025 -0700
+
+    Initial commit
