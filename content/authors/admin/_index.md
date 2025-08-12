@@ -89,15 +89,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Policy Briefing
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Data Analysis
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Technical Writing
         description: ''
         percent: 40
         icon: circle-stack
@@ -105,26 +105,19 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Basketball
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Weightlifting
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Video Games
         description: ''
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
