@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Projects and Briefs
+      text: Here is a collection of some of the projects that I have worked on as part of a school assignment, or as a writer
       filters:
         folders:
           - project
