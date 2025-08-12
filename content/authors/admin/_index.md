@@ -57,28 +57,32 @@ education:
       - Digital Policy in a Global Context
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Vantage Point YouTube Channel Writer
+    company_name: CEBSI
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-05-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Collaborate with a team of writers and producers to develop long-form content which enhances viewer understanding of family and community topics
+      - Spearhead creation of various marketing materials, ranging from Instagram reels and blog posts, to increase engagement and interaction
+      - Act as production assistant in filming content by helping set up filming location, lighting, and take BTS photos for documentation
+      - Assist in pre and post-production of YouTube content by writing and editing scripts before filming, as well as editing transcripts for captions
+  - position: Youth President
+    company_name: XIglesia Ni Cristo (Church of Christ)
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2017-10-01
+    date_end: 2024-01-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     Responsibilities include:
+      - Created community-focused outreach events and programs for participants of all ages to foster strong connections and relationships
+      - Provided support and direction to presidents and leaders by coordinating with team members throughout the lanning phase of large-scale community events
+      - Acted as central point of contact and coordinator for external agencies to help foster positive relationships with internal and external partnerships
+      - Managed external communications through various social media channels for marketing purposes, and internally through messaging softwares
+      - Performed administrative duties in order to maintain records, databases, and financial documents with respect to confidentiality
+      - Constructed record management files used regularly to calculate participant attendance, venue information, and gather participant feedback
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
