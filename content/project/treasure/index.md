@@ -1,18 +1,11 @@
 ---
-title: TREASURE
+title: "TREASURE"
 date: 2024-08-09
+external_link: https://www.youtube.com/watch?v=rTFP6lSfDEg
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Video Editing
+  - Interviewing
+  - Storytelling
 ---
 
-<<<<<<< HEAD
-[View the TREASURE Presentation (PDF)](/static/uploads/TREASURE.pdf)
-=======
-[View the TREASURE Presentation (PDF)](assets/media/TREASURE.pdf)
->>>>>>> parent of 9524e04 (changed file location path)
-
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
-
-<!--more-->
+ I was tasked to find a solution for solving the crisis that is SFU's nonexistent student life. I created a short documentary asking the students what possible solutions could be explored.
