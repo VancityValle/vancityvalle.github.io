@@ -1,7 +1,7 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: TREASURE
+date: 2024-08-09
+external_link: "upload/TREASURE Presentation.pdf"
 tags:
   - Hugo
   - Wowchemy
