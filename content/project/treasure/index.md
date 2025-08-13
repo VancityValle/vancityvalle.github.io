@@ -7,7 +7,7 @@ tags:
   - Markdown
 ---
 
-[View the TREASURE Presentation (PDF)](/assets/media/TREASURE.pdf)
+[View the TREASURE Presentation (PDF)](/static/uploads/TREASURE.pdf)
 
 scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
 
