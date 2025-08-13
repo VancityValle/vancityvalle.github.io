@@ -1,7 +1,7 @@
 ---
 title: TREASURE
 date: 2024-08-09
-external_link: "vancityvalle.github.io/static/uploads/TREASURE%Presentation.pdf"
+[View the TREASURE Presentation (PDF)](/static/uploads/TREASURE%20Presentation.pdf)
 tags:
   - Hugo
   - Wowchemy
