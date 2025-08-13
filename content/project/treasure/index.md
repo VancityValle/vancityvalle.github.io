@@ -1,7 +1,7 @@
 ---
 title: TREASURE
 date: 2024-08-09
-external_link: "upload/TREASURE Presentation.pdf"
+external_link: "static/uploads/TREASURE Presentation.pdf"
 tags:
   - Hugo
   - Wowchemy
