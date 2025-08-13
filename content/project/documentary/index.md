@@ -1,5 +1,5 @@
 ---
-title: SFU's Community: The Student Perspective
+title: "SFU's Community: The Student Perspective"
 date: 2023-12-07
 external_link: https://www.youtube.com/watch?v=rTFP6lSfDEg
 tags:
