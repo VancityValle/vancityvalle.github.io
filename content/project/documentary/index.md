@@ -4,7 +4,7 @@ date: 2023-12-07
 tags:
   - Video Editing
   - Interviewing
-  - Storytelling
+  - Content Creation
 ---
 
 {{< youtube rTFP6lSfDEg >}}
