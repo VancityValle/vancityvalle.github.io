@@ -70,7 +70,7 @@ work:
       - Act as production assistant in filming content by helping set up filming location, lighting, and take BTS photos for documentation
       - Assist in pre and post-production of YouTube content by writing and editing scripts before filming, as well as editing transcripts for captions
   - position: Youth President
-    company_name: XIglesia Ni Cristo (Church of Christ)
+    company_name: Iglesia Ni Cristo (Church of Christ)
     company_url: ''
     company_logo: ''
     date_start: 2017-10-01
