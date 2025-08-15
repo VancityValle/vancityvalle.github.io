@@ -1,13 +1,14 @@
 ---
-title: scikit-learn
+title: Vantage Point
 date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Content Creation
+  - Marketing
+  - Script Writing
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Over the past 3 years, I have been working in a team of 8 members producing content for the show Vantage Point. The content that we produce helps youth and young adults navigate the challenges of life. I am a writer for team, I am tasked with creating episodes scripts. I also double as a production assistant during our filming sections, helping fix the set.
 
-<!--more-->
+[Full Catalogue of Vantage Point episodes](https://incmedia.org/vantage-point/)
+
+
