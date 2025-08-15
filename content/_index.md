@@ -32,14 +32,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Academic Background'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Over the 3 years I attended SFU, my major in Political Science taught me the nuances of Canada's political system, breaking down the decisions of our House of Commons and the decisions that affect Canadians everywhere. I have written research papers overviewing politics in film, the Canadian healthcare system, and the Canadian government itself and its best practices in certain policy areas.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        As part of my minor in Communications, I studied a wide range of topics. In particular, how communications in its different affects the way that we interact and feel about the world. notable projects that I have made and collaborated with others in go over communications in marketing, television, and within our interactions with the world around us.
     design:
       columns: '1'
   - block: collection

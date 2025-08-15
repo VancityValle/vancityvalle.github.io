@@ -15,4 +15,3 @@ tags:
 
 [See the script for the Pilot episode](https://docs.google.com/document/d/11zQEqPyqh0X8tHwvFELgL5_AklaUMK84HnwJ4HDrUHU/edit?usp=sharing)
 
-<!--more-->
