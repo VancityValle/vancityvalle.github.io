@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "When Mental Health Meets MAiD: Expanding Medical Assistance in Death to Mental Health"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2025-04-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In 2027, Canada will be expanding MAiD to where mental health can be the sole underlying condition in receiving such care. As part of the 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -59,13 +59,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
