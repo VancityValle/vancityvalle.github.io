@@ -36,7 +36,7 @@ profiles:
   
 
 interests:
-  -  Canadian Political System
+  - Canadian Political System
   - Public Relations and Communications
   - Script writing and visual storytelling
 
