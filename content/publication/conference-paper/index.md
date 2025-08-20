@@ -28,7 +28,7 @@ abstract: The global franchise of Star Wars has been cultivating audiences for a
 summary: An analysis of the politics of Star Wars, and how fascism was able to fester in a democracy. Specific analysis was conducted on the Prequel trilogy, then compared to the Nazi Party in the Second World War.
 
 tags:
-  - Large Language Models
+  - Media Analysis
 
 # Display this page in the Featured widget?
 featured: true
