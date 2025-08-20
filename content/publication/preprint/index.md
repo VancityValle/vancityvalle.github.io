@@ -11,33 +11,26 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: In 2027, Canada will be expanding MAiD to where mental health can be the sole underlying condition in receiving such care. As part of the 
+abstract: In 2027, Canada will be expanding Medical Assistance in Death (MAiD) to where mental health can be the sole underlying condition in receiving such care. As part of the current legislation in Canada, the only ailments that qualify for MAiD must be physical. With the limited time that the Canadian government has before MAiD expands to mental health, an analysis of legislation from foregin jurisdictions was conducted where mental health can be the sole underlying condition for MAiD. Analysis was conducted on Belgium and the Netherlands, with specific regard to their implemented systems and available data on MAiD. Findings suggest that Canada should implement a system of MAiD akin to the system in the Netherlands, being that there is more care given to patients in the Dutch system.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A analysis on medically assisted death and mental health in Canada, and the best practices in which Canada can implement a system of MAiD where mental health can be the sole underlying condition in seeking out such care. 
 
 tags:
-- Large Language Models
+- Canadian Government Policy Analysis
 
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+
+url_pdf: https://vancityvalle.github.io/uploads/maidessay.pdf
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
