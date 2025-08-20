@@ -8,7 +8,7 @@ authors:
   - admin
 
 
-date: '2023-12-10-T00:00:00Z'
+date: '2023-12-10T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
