@@ -16,7 +16,7 @@ publication_types: ["Autoethnography"]
 # Publication name and optional abbreviated publication name.
 
 
-description:  Mixing personal experiences with academic writing, these autoethnographies dive into the human experience to help explain social and cultural phenomena. One such autoethnography that I authored illustrates our 'performance' in our everyday life, and how we conduct ourselves according to our surroundings and how our situation, in turn, informs our actions. Another autoethnography I wrote was on time and how instead of a physical clock tracking our time, I argue that the tasks that we complete each day serve as a better vehicle in understanding time.
+abstract:  Mixing personal experiences with academic writing, these autoethnographies dive into the human experience to help explain social and cultural phenomena. One such autoethnography that I authored illustrates our 'performance' in our everyday life, and how we conduct ourselves according to our surroundings and how our situation, in turn, informs our actions. Another autoethnography I wrote was on time and how instead of a physical clock tracking our time, I argue that the tasks that we complete each day serve as a better vehicle in understanding time.
 
 # Summary. An optional shortened abstract.
 summary: Pieces of academic and research writing that help to highlight and inform complex human experiences in everyday life.
