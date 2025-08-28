@@ -1,6 +1,6 @@
---- 
+---
 title: Community Building and Outreach
-summary: A snapshot of the work I have done in fostering a strong community.
+summary: A snapshot of the some of the events I have lead in fostering a strong and healthy community
 type: landing
 
 cascade:
