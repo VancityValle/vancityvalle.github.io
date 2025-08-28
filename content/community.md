@@ -1,6 +1,5 @@
 ---
 title: Community Building and Outreach
-summary: A snapshot of my involvement in community building and outreach activities.
 type: landing
 
 design:
@@ -11,13 +10,13 @@ design:
 sections:
   - block: collection
     content:
-      title: Projects and Briefs
-      text: Here is a collection of some of the projects that I have worked on as part of a school assignment, or as a writer
+      title: Community Outreach and Building
+      text: A snapshot of my involvement in community building and outreach activities.
       filters:
         folders:
           - community
     design:
       view: article-grid
       fill_image: false
-      columns: 2
+      columns: 1
 ---
