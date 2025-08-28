@@ -3,7 +3,7 @@ title: Voter Factor Turnout Analysis
 date: 2023-12-02
 tags:
   - Statistical Analysis
-  - RSTudio
+  - RStudio
   - Policy Analysis
 ---
 

@@ -14,7 +14,7 @@ sections:
       text: A snapshot of my involvement in community building and outreach activities.
       filters:
         folders:
-          - community
+          - community/outreach
     design:
       view: article-grid
       fill_image: false
