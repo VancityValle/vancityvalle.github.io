@@ -17,6 +17,6 @@ sections:
           - community
     design:
       view: article-grid
-      fill_image: true
+      fill_image: false
       columns: 1
 ---
