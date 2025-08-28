@@ -15,7 +15,7 @@ sections:
       text: Here is a collection of some of the projects that I have worked on as part of a school assignment, or as a writer
       filters:
         folders:
-          - project
+          - community
     design:
       view: article-grid
       fill_image: false
