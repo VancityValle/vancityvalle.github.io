@@ -37,7 +37,7 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 'https://vancityvalle.github.io/uploads/starwarsfascism.pdf'
+
 
 
 # Featured image
@@ -58,7 +58,7 @@ url_pdf: 'https://vancityvalle.github.io/uploads/starwarsfascism.pdf'
 #   Otherwise, set `slides: ""`.
 
 ---
-
+Star Wars: The Rise of Fascism](https://vancityvalle.github.io/uploads/starwarsfascism.pdf)
 
 
 

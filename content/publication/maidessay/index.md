@@ -27,10 +27,6 @@ tags:
 
 featured: true
 
-links:
-
-url_pdf: https://vancityvalle.github.io/uploads/maidessay.pdf
-
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -54,3 +50,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 ---
 
+[When Mental Health Meets MAiD: Expanding Medical Assistance in Death to Mental Health](https://vancityvalle.github.io/uploads/maidessay.pdf)
