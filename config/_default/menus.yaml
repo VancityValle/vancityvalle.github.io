@@ -17,7 +17,7 @@ main:
     url: /#papers
     weight: 30
   - name: Community Building and Outreach
-    url: /#community
+    url: community/
     weight: 40
 
   
