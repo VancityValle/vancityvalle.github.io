@@ -1,10 +1,11 @@
 ---
-title: "SFU's Community: The Student Perspective"
-date: 2023-12-07
+title: "Community Building and Outreach"
 tags:
-  - Video Editing
-  - Interviewing
-  - Content Creation
+  - Community Outreach
+  - Community Building
+  - Event Coordination and Leadership
 ---
 
- I was tasked to find a solution for solving the crisis that is SFU's nonexistent student life. I created a short documentary asking the students what possible solutions could be explored to help foster a stronger sense of community at SFU.
+ For almost a decade, I was fortunate to have led a group of youth in my church community as their Youth President. In that role, I acted as an event coordinator, event lead, as well as a spokesperson for our community. I was responsible for marketing our events and program through social media and word of mouth, and reaching out to third party organizations for events. 
+
+ Beyond our own community events, we also held multiple 'Friday Youth Missions' which were intended not only to foster strong connections within each other, but also within the broader community around us. The goal of our FYMs was to inspire each other and those around us to give back the community. 
