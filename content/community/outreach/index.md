@@ -1,23 +1,11 @@
 ---
-title: Community Building and Outreach
-summary: A snapshot of the some of the events I have lead in fostering a strong and healthy community
-type: landing
-
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
-
-sections:
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-    design:
-      view: article-grid
-      columns: 2
+title: Learn JavaScript
+summary: Easily learn JavaScript in 10 minutes!
+date: 2023-10-24
+type: docs
+math: false
+tags:
+  - JavaScript
+image:
+  caption: 'Embed rich media such as videos and LaTeX math'
 ---
