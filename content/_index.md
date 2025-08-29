@@ -37,7 +37,7 @@ sections:
       text: |-
         Throughout the years I attended SFU, my degree in Political Science taught me the nuances of Canada's political system, breaking down the decisions of our House of Commons and the decisions that affect Canadians everywhere. I have written research papers overviewing politics in film, the Canadian healthcare system, and the Canadian government itself and its best practices in certain policy areas.
 
-        As part of my minor in Communications, I studied a wide range of topics. In particular, how communications  affects the way that we interact with the world. Notable projects that I have made and collaborated in with others go over the communications in marketing, television, and our interactions with the environment around us.
+        As part of my minor in Communications, I studied a wide range of topics. In particular, I researched how communications and its numerous forms affects the way that we interact with the world. Notable projects that I have made and collaborated with others examine the communications in marketing, television, and our interactions with the environment around us.
     design:
       columns: '1'
   - block: collection
