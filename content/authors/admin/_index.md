@@ -128,4 +128,4 @@ skills:
 
 ## About Me
 
-Nathaneil Valle is a recent graduate from Simon Fraser University. His degree, Bachelor of Arts, Major in Political Science, examined the politics of Canada in both a micro and macro scale. His minor studied the affects of communications in everday life, cultural, and political contexts. 
+Nathaneil Valle is a recent graduate from Simon Fraser University. His degree, Bachelor of Arts, Major in Political Science, examined the politics of Canada in both a Micro and Macro scale. His minor studied the affects of communications in everday life, cultural, and political contexts. 

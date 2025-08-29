@@ -20,7 +20,7 @@ publication_short: ""
 abstract: In 2027, Canada will be expanding Medical Assistance in Death (MAiD) to where mental health can be the sole underlying condition in receiving such care. As part of the current legislation in Canada, the only ailments that qualify for MAiD must be physical. With the limited time that the Canadian government has before MAiD expands to mental health, an analysis of legislation from foregin jurisdictions was conducted where mental health can be the sole underlying condition for MAiD. Analysis was conducted on Belgium and the Netherlands, with specific regard to their implemented systems and available data on MAiD. Findings suggest that Canada should implement a system of MAiD akin to the system in the Netherlands, being that there is more care given to patients in the Dutch system.
 
 # Summary. An optional shortened abstract.
-summary: A analysis on medically assisted death and mental health in Canada, and the best practices in which Canada can implement a system of MAiD where mental health can be the sole underlying condition in seeking out such care. 
+summary: An analysis on medically assisted death and mental health in Canada, and the best practices in which Canada can implement a system of MAiD where mental health can be the sole underlying condition in seeking out such care. 
 
 tags:
 - Canadian Government Policy Analysis
