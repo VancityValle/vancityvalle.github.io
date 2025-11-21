@@ -61,6 +61,19 @@ work:
     company_name: CEBSI
     company_url: ''
     company_logo: ''
+    date_start: 2025-11-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - Write and draft three (3) grant proposals using a clear, compelling, persuasive tone and voice to secure organization funding.
+      - Research funding opportunities in line with organization needs for operational costs.
+      - Assist in managing grant projects by collaborating with colleagues to create budgets, deadlines for proposals, as well as gather documentation to ensure accuracy and effectiveness. 
+      - Maintain and keep a calendar of deadlines to maintain orderliness for submission deadlines.
+      - Foster relationships with grant programs and committees to develop long-term funding opportunities. 
+  - position: Vantage Point YouTube Channel Writer
+    company_name: CEBSI
+    company_url: ''
+    company_logo: ''
     date_start: 2022-05-01
     date_end: ''
     summary: |2-
@@ -70,7 +83,7 @@ work:
       - Act as production assistant in filming content by helping set up filming location, lighting, and take BTS photos for documentation
       - Assist in pre and post-production of YouTube content by writing and editing scripts before filming, as well as editing transcripts for captions
   - position: Youth President
-    company_name: Iglesia Ni Cristo (Church of Christ)
+    company_name: Iglesia Ni Cristo 
     company_url: ''
     company_logo: ''
     date_start: 2017-10-01
