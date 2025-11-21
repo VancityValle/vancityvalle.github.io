@@ -57,8 +57,8 @@ education:
       - Digital Policy in a Global Context
 
 work:
-  - position: Vantage Point YouTube Channel Writer
-    company_name: CEBSI
+  - position: Grant Writer
+    company_name: Black Arts Vancouver
     company_url: ''
     company_logo: ''
     date_start: 2025-11-01
