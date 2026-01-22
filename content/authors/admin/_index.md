@@ -65,12 +65,12 @@ work:
     date_end: '2025-12-01'
     summary: |2-
       Responsibilities include:
-      - Write and draft three (3) grant proposals using a clear, compelling, persuasive tone and voice to secure funding for non-profit organization.
+      - Wrote and drafted three (3) grant proposals using a clear, compelling, persuasive tone and voice to secure funding for non-profit organization.
       - Reviewed and edited three previous grant submissions under a 3-day deadline and successfully delivered in 48 hours.
       - Managed and created three grant proposals by developing project plans including timelines, deadlines, and required documentation for execution within a two-month period.
-      - Research funding opportunities in line with organization needs for operational costs.
-      - Maintain and keep a calendar of deadlines to maintain orderliness for submission deadlines.
-      - Foster relationships with grant programs and committees to develop long-term funding opportunities. 
+      - Researched funding opportunities in line with organization needs for operational costs.
+      - Maintained and kept a calendar of deadlines to maintain orderliness for submission deadlines.
+      - Fostered relationships with grant programs and committees to develop long-term funding opportunities. 
   - position: Vantage Point YouTube Channel Writer
     company_name: CEBSI
     company_url: ''
